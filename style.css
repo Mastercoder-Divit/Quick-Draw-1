@@ -1,0 +1,35 @@
+body{
+    background:greenyellow;
+}
+
+h1{
+    background-color: cornsilk;
+    color: rgb(38, 0, 255);
+}
+
+#show_sketch{
+    float: right;
+}
+
+#score
+{
+    font-size: 28px;
+    margin-left: 5px;
+}
+
+#timer
+{
+    float: right;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+}
+
+#sketch_to_be_drawn
+{
+    color: red;
+}
